@@ -1,8 +1,6 @@
 USB-IO-Board V3 
 =================
 /*******************************************************************************
-     
-    File:   BootPIC16F145x.c
     Author:  Gaurav Singh
     website: www.circuitvalley.com 
 	https://github.com/circuitvalley/USB_IO_Board_V3
