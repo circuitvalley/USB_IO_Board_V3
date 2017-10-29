@@ -3,7 +3,6 @@ USB-IO-Board V3
 /*******************************************************************************
     Author:  Gaurav Singh
     website: www.circuitvalley.com 
-	https://github.com/circuitvalley/USB_IO_Board_V3
     Created on October 28, 2017
     
     This file is part of Circuitvalley USB HID Bootloader.
